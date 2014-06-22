@@ -197,7 +197,7 @@ Libgit 在哪里?
 
 libgit.a in GIT.
 
-* All about memery
+* All about memory
 * OOM
 
 ???
